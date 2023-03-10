@@ -1,5 +1,4 @@
 import React from 'react';
-import { FirstSoundsGroup } from './firstGroupSons';
 import Keyboardkey from './keyboardkey';
 
 
